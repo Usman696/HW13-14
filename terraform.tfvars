@@ -1,0 +1,5 @@
+region = "eu-central-1"
+instance_type = "t3.micro"
+name = "allow_tls"
+owner = "Kamalutdinov Usman"
+project = "homework 13 and 14"
